@@ -2,7 +2,7 @@
 Local Settings Director for PHP (read and write settings)
 
 ## Usage example
-````
+```php
 <?php
 /**
  * Created by Pangodream.
@@ -26,4 +26,4 @@ echo Lsd::getLastReadTime();
 echo "\n";
 echo Lsd::getLastWriteTime();
 echo "\n";
-````
+```
