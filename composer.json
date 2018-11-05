@@ -1,0 +1,19 @@
+{
+    "name": "pangodream/php-lsd",
+    "description": "Local Settings Director (for PHP)",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pangodream",
+            "email": "development@pangodream.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-0":{
+             "Lsd":"src/"
+        }
+    }
+}
